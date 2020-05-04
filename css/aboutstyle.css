@@ -5,6 +5,7 @@
     list-style: none;
     box-sizing: border-box;
     overflow-x: hidden;
+    text-decoration: none;
 }
 
 
@@ -87,6 +88,30 @@ nav ul li a.active, nav ul li a:hover{
     margin-top: 40px;
     margin-bottom: 30px;
 }
+
+.hover-school {
+    background:
+       linear-gradient(
+         to bottom, #f62e4b 0%,
+         #f62e4b 100%
+       );
+      background-position: 0 100%;
+      background-repeat: repeat-x;
+      background-size: 4px 4px;
+    color: #1a1a1a;
+    text-decoration: none;
+    transition: all .4s;
+  }
+  
+  .hover-school:hover {
+    background-size: 4px 50px;
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .italic {
+      font-style: oblique;
+  }
 
 .body-text {
     font-size: 20px;
