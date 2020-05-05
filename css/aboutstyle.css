@@ -112,6 +112,7 @@ nav ul li a.active, nav ul li a:hover{
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 27px;
     color: #f62e4b;
+    line-height: normal;
 }
 
 .hover-school {
@@ -150,6 +151,7 @@ nav ul li a.active, nav ul li a:hover{
     color: #f62e4b;
     margin-top: 50px;
     margin-bottom: 30px;
+    line-height: normal;
 }
 
 .strength-title {
@@ -157,6 +159,7 @@ nav ul li a.active, nav ul li a:hover{
     font-size: 20px;
     margin-top: 20px;
     margin-bottom: 30px;
+    line-height: normal;
 }
 
 .strengh-card {
