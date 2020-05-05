@@ -80,10 +80,14 @@ nav ul li a.active, nav ul li a:hover{
 
 .hero-image-content {
     width: auto;
-    background-image: url("../assets/IMG_1710.JPG");
+    /* background-image: url("../assets/IMG_1710.JPG"); */
+    background-image: url("../assets/Portfolio\ Shot.JPG");
     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 400px;
     margin-top: 30px;
+    /* border: 5px solid #f62e4b; */
 }
 
 /* HERO TEXT END */
