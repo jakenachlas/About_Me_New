@@ -31,6 +31,15 @@ label.logo {
     line-height: 80px;
 }
 
+label.logo a {
+    color: #f62e4b;
+}
+
+label.logo a:hover {
+    color: #f62e4b;
+    text-decoration: none;
+}
+
 nav ul {
     float: right;
 }
