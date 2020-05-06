@@ -167,8 +167,14 @@ nav ul li a.active, nav ul li a:hover{
     padding-left: 20px;
     border-left: 10px solid #f62e4b;
     margin-top: 40px;
-    
 }
+
+.strengh-card:hover {
+    padding-left: 20px;
+    border-left: 10px solid #c9273e;
+    margin-top: 40px;
+}
+
 
 
 
