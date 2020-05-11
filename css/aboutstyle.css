@@ -176,7 +176,9 @@ nav ul li a.active, nav ul li a:hover{
 }
 
 
-
+.my-email {
+    display: inline-block;
+}
 
 
 /* GET TO KNOW ME START */
